@@ -1,2 +1,2 @@
 # MyBuildTool
-The Cmake&amp;Qt Linux and Mac tools with full example
+The Cmake &amp; Qt Linux and Mac tools with full example
